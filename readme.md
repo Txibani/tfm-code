@@ -1,7 +1,7 @@
-# TFM - Máster de Ciencia de Datos de la UOC
+# TFM - Aprendizaje automático para la predicción del riesgo individual de cáncer de mama dentro del programa de cribado. Comparativa frente a modelo estadístico.
 
 ## Descripción
-En este repositorio se guarda el código en Python desarrollado para el Trabajo Fin de Máster, en él se pueden encontrar los notebooks desarrollados.
+En este repositorio se guarda el código en Python desarrollado para el Trabajo Fin de Máster del máster de Ciencia de Datos de la UOC, en él se pueden encontrar los notebooks desarrollados a lo largo del proyecto.
 
 ## Carpetas y ficheros
     
